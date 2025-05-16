@@ -27,11 +27,7 @@ Clase Principal como punto de entrada para ejecutar pruebas o simulaciones
 ├── build.xml # Script de construcción Ant
 
 
-
-
-
 ## 🔐 Funcionalidades
-
 
 
 - Inicio de sesión de usuarios
@@ -41,3 +37,16 @@ Clase Principal como punto de entrada para ejecutar pruebas o simulaciones
 - Registro, modificación y eliminación de empleados
 
 - Visualización de lista de empleados
+
+  🧠 Objetivo académico
+Este proyecto fue desarrollado como parte de un módulo de aprendizaje de POO, con énfasis en:
+
+Abstracción
+
+Herencia
+
+Polimorfismo
+
+Encapsulamiento
+
+Uso de interfaces
