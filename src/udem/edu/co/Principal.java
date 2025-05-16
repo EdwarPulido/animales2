@@ -24,6 +24,7 @@ public class Principal {
     public static void main(String[] args) {
 		List<Animal> animals = new ArrayList<Animal>();
 		animals.add(new Perro());
+                animals.add(new Perro());
 		animals.add(new Gato());
 		animals.add(new Conejo());//
 		for(Animal animal:animals) {
